@@ -45,4 +45,4 @@ To launch the application locally, take the following actions:
 
 3.retrieving and presenting a five-day forecast rather than just the current situation.
 
-reducing the number of unnecessary API calls by implementing local data caching.
+4.reducing the number of unnecessary API calls by implementing local data caching.
